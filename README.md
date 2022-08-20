@@ -1,2 +1,3 @@
 # commands_cheat-sheet
-A bunch of useful commands
+  
+  watch -n .2 -d "df && uptime"
